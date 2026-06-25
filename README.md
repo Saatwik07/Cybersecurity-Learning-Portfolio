@@ -61,7 +61,7 @@ Completed: **21 June 2026**
 
 Completed:
 
-✅ Course 2
+Course 2
 
 **Play It Safe: Manage Security Risks**
 
@@ -71,6 +71,7 @@ Topics Covered
 - Risk management
 - Security controls
 - Security governance
+- OWASP Top 10
 - Incident response basics
 
 ---
