@@ -132,6 +132,7 @@ Learning Areas
 - Linux
 - Networking
 - Web security
+- OWASP TOP 10
 
 ---
 
